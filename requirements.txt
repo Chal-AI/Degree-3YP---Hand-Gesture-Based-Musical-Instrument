@@ -1,0 +1,5 @@
+mediapipe
+mido
+numpy
+opencv-python
+tkinter

@@ -14,7 +14,7 @@ HGBMI is a Python-based project that uses hand gesture recognition to simulate p
 3. Set up LoopMIDI as a virtual device.
 
 ## Usage
-1. Run the code:
+1. Run the code: HGBMI.py
 2. Open Soundtrap, configure MIDI input from LoopMIDI, and start making music!
 
 ## Demo Video
